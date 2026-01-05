@@ -1,0 +1,6 @@
+title: "Pediatric ECG Guide"
+description: "A concise pediatric ECG reference"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+markdown: kramdown
