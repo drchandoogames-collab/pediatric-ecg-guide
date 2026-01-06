@@ -1,6 +1,12 @@
 title: "Pediatric ECG Guide"
-description: "A concise pediatric ECG reference"
-theme: jekyll-theme-primer
+description: "A concise pediatric ECG reference."
+baseurl: ""  # leave empty if publishing at https://<username>.github.io/<repo>
+url: "https://drchandoogames-collab.github.io/pediatric-ecg-guide"
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
-markdown: kramdown
+
+# Optional: files to exclude from the site build
+exclude:
+  - Gemfile
+  - Gemfile.lock
