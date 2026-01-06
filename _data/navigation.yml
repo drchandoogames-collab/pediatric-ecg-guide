@@ -1,0 +1,62 @@
+- title: "Home"
+  url: /
+- title: "01 — Introduction"
+  url: /01-introduction/
+  pages:
+    - title: "01 — Introduction"
+      url: /01-introduction/
+- title: "02 — ECG Basics"
+  url: /02-ecg-basics/
+  pages:
+    - title: "02 — ECG Basics"
+      url: /02-ecg-basics/
+- title: "03 — Age-specific Norms"
+  url: /03-age-specific-norms/
+  pages:
+    - title: "03 — Age-specific Norms"
+      url: /03-age-specific-norms/
+- title: "04 — Normal Pediatric Rhythms"
+  url: /04-normal-rhythms/
+  pages:
+    - title: "04 — Normal Pediatric Rhythms"
+      url: /04-normal-rhythms/
+- title: "05 — Abnormal Rhythms"
+  url: /05-abnormal-rhythms/
+  pages:
+    - title: "05 — Abnormal Rhythms"
+      url: /05-abnormal-rhythms/
+- title: "06 — Axis and Intervals"
+  url: /06-axis-intervals/
+  pages:
+    - title: "06 — Axis and Intervals"
+      url: /06-axis-intervals/
+- title: "07 — Hypertrophy and Enlargement"
+  url: /07-hypertrophy/
+  pages:
+    - title: "07 — Hypertrophy and Enlargement"
+      url: /07-hypertrophy/
+- title: "08 — Ischemia and Infarction"
+  url: /08-ischemia-infarction/
+  pages:
+    - title: "08 — Ischemia and Infarction"
+      url: /08-ischemia-infarction/
+- title: "09 — Congenital Heart Disease"
+  url: /09-congenital-hd/
+  pages:
+    - title: "09 — Congenital Heart Disease"
+      url: /09-congenital-hd/
+- title: "10 — Electrolytes and Drugs"
+  url: /10-electrolytes-drugs/
+  pages:
+    - title: "10 — Electrolytes and Drugs"
+      url: /10-electrolytes-drugs/
+- title: "11 — ECG in Emergency"
+  url: /11-emergency-ecg/
+  pages:
+    - title: "11 — ECG in Emergency"
+      url: /11-emergency-ecg/
+- title: "12 — References & Resources"
+  url: /12-references/
+  pages:
+    - title: "12 — References & Resources"
+      url: /12-references/
