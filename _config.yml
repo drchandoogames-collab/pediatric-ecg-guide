@@ -1,12 +1,19 @@
 title: "Pediatric ECG Guide"
-description: "A concise pediatric ECG reference."
-baseurl: ""  # leave empty if publishing at https://<username>.github.io/<repo>
-url: "https://drchandoogames-collab.github.io/pediatric-ecg-guide"
-theme: jekyll-theme-modernist
+description: "A concise, clinical guide to pediatric ECGs"
+remote_theme: pmarsceill/just-the-docs
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
-# Optional: files to exclude from the site build
+# Site options
+markdown: kramdown
 exclude:
-  - Gemfile
   - Gemfile.lock
+
+# just-the-docs options (examples you can tweak)
+just_the_docs:
+  homepage: index
+  logo: assets/img/logo.png
+  search: true
+  toc: true
+  show_sidebar: true
