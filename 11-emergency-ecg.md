@@ -1,5 +1,6 @@
 ---
 title: "11 — ECG in Emergency"
+permalink: /11-emergency-ecg/
 ---
 
 # 11 — ECG in Emergency

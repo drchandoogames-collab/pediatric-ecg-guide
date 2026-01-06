@@ -1,5 +1,6 @@
 ---
 title: "02 — ECG Basics"
+permalink: /02-ecg-basics/
 ---
 
 # 02 — ECG Basics

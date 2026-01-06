@@ -1,5 +1,6 @@
 ---
 title: "07 — Hypertrophy and Enlargement"
+permalink: /07-hypertrophy/
 ---
 
 # 07 — Hypertrophy and Enlargement

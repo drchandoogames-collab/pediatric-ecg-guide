@@ -1,5 +1,6 @@
 ---
 title: "03 — Age-specific Norms"
+permalink: /03-age-specific-norms/
 ---
 
 # 03 — Age-specific Norms

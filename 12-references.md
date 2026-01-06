@@ -1,5 +1,6 @@
 ---
 title: "12 — References & Resources"
+permalink: /12-references/
 ---
 
 # 12 — References & Resources
